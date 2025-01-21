@@ -3,8 +3,8 @@
 </a>
 
 # Pattern Recognition and Machine Learning
-## Author
-* **Davide Savini**
+## Authors
+* **Davide Savini and Giulia Focarelli**
 
 ## Description
 
